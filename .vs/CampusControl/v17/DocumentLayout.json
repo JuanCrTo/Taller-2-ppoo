@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CampusControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\cursoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\cursoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\cursoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\cursoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\matriculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\matriculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\controllers\\matriculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\controllers\\cursoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028051727_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028051727_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028035001_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028035001_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028035342_2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028035342_2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028043507_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028043507_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028040739_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028040739_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028035342_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028035342_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028035001_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028035001_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|c:\\users\\user\\desktop\\campuscontrol\\campuscontrol\\data\\migrations\\20241028051036_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFBD40C-E784-414F-A407-A8F0DFA583D3}|CampusControl\\CampusControl.csproj|solutionrelative:campuscontrol\\data\\migrations\\20241028051036_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Cursoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Cursoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Cursoes\\Index.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Cursoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:04:15.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Cursoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Cursoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Cursoes\\Create.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Cursoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:04:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:04:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Matriculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Matriculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Matriculas\\Index.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Matriculas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:03:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:57:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:56:58.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:45:03.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:47:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "CampusControl\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:21:23.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Matriculas\\Create.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Matriculas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Matriculas\\Create.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Matriculas\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:29:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CursoesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\CursoesController.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Controllers\\CursoesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\CursoesController.cs",
+              "RelativeToolTip": "CampusControl\\Controllers\\CursoesController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:20:48.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatriculasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\MatriculasController.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Controllers\\MatriculasController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\MatriculasController.cs",
+              "RelativeToolTip": "CampusControl\\Controllers\\MatriculasController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:21:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Models\\Matricula.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Matricula.cs",
+              "RelativeToolTip": "CampusControl\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:35:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CampusControl\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:36:05.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAArwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:06:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Estudiante.cs",
+              "RelativeToolTip": "CampusControl\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:30:47.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\Curso.cs",
+              "RelativeToolTip": "CampusControl\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:32:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CampusControl\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:11:57.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CampusControl\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:48:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "CampusControl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "CampusControl\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAJISAAAAAAAAAAAAAKsSAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T05:25:56.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241028051727_9.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028051727_9.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028051727_9.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028051727_9.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028051727_9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:17:28.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241028051036_8.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028051036_8.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028051036_8.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028051036_8.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028051036_8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:10:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241028043507_4.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028043507_4.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028043507_4.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028043507_4.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028043507_4.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:35:07.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241028040739_3.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028040739_3.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028040739_3.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028040739_3.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028040739_3.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:07:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241028035001_1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035001_1.Designer.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028035001_1.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035001_1.Designer.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028035001_1.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:06:34.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241028035342_2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035342_2.Designer.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028035342_2.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035342_2.Designer.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028035342_2.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIBPwGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:06:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "CampusControl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "CampusControl\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAPgPAAAAAAAAAIBPwAQQAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:09:14.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241028035342_2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035342_2.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028035342_2.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035342_2.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028035342_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:53:43.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Program.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Program.cs",
+              "RelativeToolTip": "CampusControl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:53:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\appsettings.json",
+              "RelativeDocumentMoniker": "CampusControl\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\appsettings.json",
+              "RelativeToolTip": "CampusControl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:51:57.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241028035001_1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035001_1.cs",
+              "RelativeDocumentMoniker": "CampusControl\\Data\\Migrations\\20241028035001_1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Data\\Migrations\\20241028035001_1.cs",
+              "RelativeToolTip": "CampusControl\\Data\\Migrations\\20241028035001_1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:50:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA1wAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:48:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CampusControl\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CampusControl\\CampusControl\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CampusControl\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:41:59.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
